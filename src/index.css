@@ -1,0 +1,12 @@
+.lazy-wrap {
+	display: inline-block;
+	width: 100%;
+	font-size: 0;
+	background: rgba(0,0,0,.15);
+	overflow: hidden;
+}
+
+.lazy-wrap img {
+	opacity: 0;
+	transition: opacity .35s;
+}
