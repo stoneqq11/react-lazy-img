@@ -1,14 +1,14 @@
 {
-  "name": "@flyme/lazy-img",
+  "name": "react-lazy-img",
   "version": "1.0.0",
   "description": "react lazyload image component",
-  "repository": "http://gitlab.meizu.com/shiquan/LazyImg.git",
+  "repository": "https://github.com/stoneqq11/react-lazy-img.git",
   "main": "lib/index.js",
   "scripts": {
     "build": "babel ./src --out-dir ./lib --copy-files"
   },
   "keywords": [
-    "lazyImg",
+    "LazyImg",
     "react",
     "component"
   ],
