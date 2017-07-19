@@ -1,5 +1,5 @@
 {
-  "name": "react-lazy-img",
+  "name": "@stoneqq11/react-lazy-img",
   "version": "1.0.0",
   "description": "react lazyload image component",
   "repository": "https://github.com/stoneqq11/react-lazy-img.git",
@@ -12,7 +12,7 @@
     "react",
     "component"
   ],
-  "author": "Stoneqq",
+  "author": "stoneqq11",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
