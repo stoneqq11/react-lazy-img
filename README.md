@@ -1,8 +1,8 @@
 <h2>INSTALL</h2>
-	npm install @flyme/lazy-img --save --registry=http://172.16.16.135:7001
+	npm install react-lazy-img --save
 
 <h2>USEAGE</h2>
-	import LazyImg from '@flyme/lazy-img'
+	import LazyImg from 'react-lazy-img'
 
 	<LazyImg src='imgurl' alt='lazyimg' />
 
