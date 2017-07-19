@@ -1,8 +1,8 @@
 <h2>INSTALL</h2>
-	npm install @stoneqq11/react-lazy-img --save
+	npm install react-lazyload-image --save
 
 <h2>USEAGE</h2>
-	import LazyImg from '@stoneqq11/react-lazy-img'
+	import LazyImg from 'react-lazyload-image'
 
 	<LazyImg src='imgurl' alt='lazyimg' />
 

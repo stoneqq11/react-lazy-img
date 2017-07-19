@@ -1,6 +1,6 @@
 {
-  "name": "@stoneqq11/react-lazy-img",
-  "version": "1.0.0",
+  "name": "react-lazyload-image",
+  "version": "1.0.1",
   "description": "react lazyload image component",
   "repository": "https://github.com/stoneqq11/react-lazy-img.git",
   "main": "lib/index.js",
