@@ -1,8 +1,8 @@
 <h2>INSTALL</h2>
-	npm install react-lazyload-image --save
+	npm install @dreamland/react-lazy-img --save
 
 <h2>USEAGE</h2>
-	import LazyImg from 'react-lazyload-image'
+	import LazyImg from '@dreamland/react-lazy-img'
 
 	<LazyImg src='imgurl' alt='lazyimg' />
 

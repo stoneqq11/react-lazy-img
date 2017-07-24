@@ -1,5 +1,5 @@
 {
-  "name": "react-lazyload-image",
+  "name": "@dreamland/react-lazy-img",
   "version": "1.0.1",
   "description": "react lazyload image component",
   "repository": "https://github.com/stoneqq11/react-lazy-img.git",
